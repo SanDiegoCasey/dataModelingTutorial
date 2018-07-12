@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/SanDiegoCasey/dataModelingTutorial/issues"
   },
-  "homepage": "https://github.com/SanDiegoCasey/dataModelingTutorial#readme"
+  "homepage": "https://github.com/SanDiegoCasey/dataModelingTutorial#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mongoose": "^5.2.3",
+    "morgan": "^1.9.0",
+    "uuid": "^3.3.2"
+  }
 }
